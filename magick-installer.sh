@@ -95,7 +95,7 @@ make
 sudo make install
 cd ..
 
-ln -s /usr/local/include/ImageMagick/wand /usr/local/include/wand
-ln -s /usr/local/include/ImageMagick/magick /usr/local/include/magick
+sudo ln -s /usr/local/include/ImageMagick/wand /usr/local/include/wand
+sudo ln -s /usr/local/include/ImageMagick/magick /usr/local/include/magick
 
 echo "ImageMagick successfully installed!"
