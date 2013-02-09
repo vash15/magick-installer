@@ -16,7 +16,7 @@ cd magick-installer
 
 download http://ftp.gnu.org/pub/gnu/libiconv/libiconv-1.14.tar.gz
 download http://nongnu.askapache.com/freetype/freetype-2.4.10.tar.gz
-download http://iweb.dl.sourceforge.net/project/libpng/libpng15/1.5.12/libpng-1.5.12.tar.gz
+download ftp://ftp.simplesystems.org/pub/libpng/png/src/libpng-1.5.14.tar.gz
 download http://www.imagemagick.org/download/delegates/jpegsrc.v8b.tar.gz
 download http://download.osgeo.org/libtiff/tiff-4.0.1.tar.gz
 download http://voxel.dl.sourceforge.net/project/lcms/lcms/2.3/lcms2-2.3.tar.gz
