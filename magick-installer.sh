@@ -41,8 +41,8 @@ make
 sudo make install
 cd ..
 
-tar xzvf libpng-1.5.12.tar.gz
-cd libpng-1.5.12
+tar xzvf libpng-1.5.14.tar.gz
+cd libpng-1.5.14
 ./configure --prefix=/usr/local
 make clean
 make
