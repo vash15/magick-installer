@@ -21,7 +21,7 @@ download http://www.ijg.org/files/jpegsrc.v9.tar.gz
 download http://download.osgeo.org/libtiff/tiff-4.0.3.tar.gz
 download http://downloads.sourceforge.net/lcms/lcms2-2.5.tar.gz
 download http://downloads.ghostscript.com/public/ghostscript-9.10.tar.gz
-download http://voxel.dl.sourceforge.net/project/gs-fonts/gs-fonts/8.11%20%28base%2035%2C%20GPL%29/ghostscript-fonts-std-8.11.tar.gz
+download https://ghostscript.googlecode.com/files/ghostscript-fonts-std-8.11.tar.gz
 download http://www.imagemagick.org/download/ImageMagick-6.8.7-1.tar.gz
 
 
